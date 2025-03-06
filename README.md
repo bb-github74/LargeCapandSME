@@ -1,4 +1,4 @@
-# LargeCapandSME
+# Large Firms and Small and Medium Size Firms
 
 Title: (Insert your paper's title here)
 
@@ -26,7 +26,12 @@ Challenges traditional assumptions about market efficiency by highlighting the i
 Provides evidence that the market under utilizes SME data.
 
 Data and Code:
+Dataset:
+- US Top 1000 firms Dataset: [Fortune 1000](https://www.kaggle.com/datasets/jeannicolasduval/2024-fortune-1000-companies)
+- Aggregate.pkl: is dataset contains earnings calls links, cleaned text, and other features ready to run analysis
 
+Code:
+- Test.ipynb: is Random Forest Classification model, includes train, test, and validation. It also contains results such as confusion matrix, feature importance, and permutation importance table. Located in Code/test.ipynb
 (Briefly describe where your data and code are located, if applicable)
 How to Use:
 
