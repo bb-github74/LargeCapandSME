@@ -1,6 +1,6 @@
 # Large Firms and Small and Medium Size Firms
 
-Title: (Insert your paper's title here)
+Title: Exploring Potential Investor Bias and Market Inefficiencies: A Study of Earnings Sentiment
 
 Overview:
 
